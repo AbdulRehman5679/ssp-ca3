@@ -79,4 +79,7 @@ router.post('/post/delete', function (req,res) {
 
     res.redirect('back');
 })
-
+server.listen(process.env.PORT || 3000, process.env.IP || "0.0.0.0", function() {
+    const addr = server.address();
+    console.log("Server listening at", addr.address + ":" + addr.port)
+});
