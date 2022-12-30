@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <menu>
-  <category name="Coffee">
+  <category name="Chicken Burgers 🍗">
     <item>
-      <listing>Espresso</listing>
+      <listing>Chicken Royale</listing>
       <price>3.10</price>
     </item>
     <item>
-      <listing>Latte</listing>
+      <listing>Crispy chicken</listing>
       <price>3.50</price>
     </item>
     <item decaf="true">
-      <listing>Americano</listing>
+      <listing>Coke</listing>
       <price>3.20</price>
     </item>
   </category>
-  <category name="Frappe">
+  <category name="Bacon Burgers 🥓">
     <item>
-      <listing>Salted Caramel Frappé</listing>
+      <listing>Bacon king</listing>
       <price>4.50</price>
     </item>
     <item>
-      <listing>Pumpkin Spice Frappé</listing>
+      <listing>Bacon Double cheese</listing>
       <price>5.00</price>
     </item>
     <item decaf="true">
-      <listing>Mint Chocolate Frappé</listing>
+      <listing>Sprite</listing>
       <price>5.00</price>
     </item>
   </category>
-  <category name="Iced Coffee">
+  <category name="XL Burgers 🍔">
     <item>
-      <listing>Iced Toasted Vanilla</listing>
+      <listing>XL Bacon Double Cheese</listing>
       <price>4.00</price>
     </item>
     <item>
-      <listing>Iced Shaken Espresso</listing>
+      <listing>XL Big King</listing>
       <price>3.80</price>
     </item>
     <item decaf="true">
-      <listing>Iced Flat White</listing>
+      <listing>Coke Zero</listing>
       <price>4.10</price>
     </item>
   </category>
-  <category name="Tea">
+  <category name="Euro Burgers 💶 ">
     <item>
-      <listing>Mint</listing>
+      <listing>Hamburger</listing>
       <price>2.50</price>
     </item>
     <item>
-      <listing>Green</listing>
+      <listing>Cheeseburger</listing>
       <price>2.70</price>
     </item>
     <item decaf="true">
-      <listing>Breakfast</listing>
+      <listing>Fanta</listing>
       <price>2.50</price>
     </item>
   </category>
-  <category name="Deserts">
+  <category name="Deserts 🍨">
     <item>
       <listing>Chocolate Brownie</listing>
       <price>4.50</price>
     </item>
     <item>
-      <listing>Vanila Cheescake</listing>
+      <listing>Oreo Milkshake</listing>
       <price>4.50</price>
     </item>
     <item>
-      <listing>Carrot Cake</listing>
+      <listing>Belgium Waffle</listing>
       <price>5.00</price>
     </item>
   </category>
