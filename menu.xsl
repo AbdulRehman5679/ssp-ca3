@@ -5,7 +5,6 @@
 			<thead>
 				<tr>
 					<th>Select</th>
-					<th>Select</th>
 					<th>Item</th>
 					<th>Price</th>
 				</tr>
