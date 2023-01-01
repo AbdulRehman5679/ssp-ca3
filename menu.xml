@@ -9,9 +9,9 @@
       <listing>Crispy chicken</listing>
       <price>3.50</price>
     </item>
-    <item decaf="true">
-      <listing>Coke</listing>
-      <price>3.20</price>
+    <item>
+      <listing>Coke </listing>
+      <price>3.10</price>
     </item>
   </category>
   <category name="Bacon Burgers 🥓">
